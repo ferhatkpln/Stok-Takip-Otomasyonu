@@ -1,0 +1,17 @@
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\bin\Debug\Stok_Takip_Otomasyonu.exe.config
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\bin\Debug\Stok_Takip_Otomasyonu.exe
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\bin\Debug\Stok_Takip_Otomasyonu.pdb
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmSatiş.resources
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMüşteriEkle.resources
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.exe
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.pdb
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMüşteriListele.resources
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmKategori.resources
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmMarka.resources
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmÜrünEkle.resources
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmUrunListeleme.resources
+C:\Users\FERO\Desktop\7. YARIYIL\veri tabanı yönetim sistemleri\proje\Stok_Takip_Otomasyonu\Stok_Takip_Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.frmSatisListele.resources
